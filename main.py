@@ -8,8 +8,8 @@ that happened today to /output/entry.txt, for make.fun's
 from pathlib import Path
 
 ENTRY = (
-    "The lift broke this morning, so my neighbour carried my groceries "
-    "up four flights of stairs — then apologised for being slow."
+    "The lift broke this morning, so Mrs. Chen carried my groceries "
+    "up four flights — then apologised for being slow."
 )
 
 OUTPUT_PATH = Path("/output/entry.txt")
